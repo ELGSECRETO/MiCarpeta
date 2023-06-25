@@ -6,7 +6,6 @@ public class Persona {
     private String apellidos;
     private int edad;
 
-    //Constructor
     public Persona (String nombre, String apellidos, int edad) {
 
         this.nombre = nombre;
