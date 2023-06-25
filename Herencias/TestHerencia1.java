@@ -1,6 +1,6 @@
 package MiCarpeta.Herencias;
 
-//Código de test aprenderaprogramar.com
+//Código de test
 public class TestHerencia1 {
 
     public static void main (String [ ] Args) {
