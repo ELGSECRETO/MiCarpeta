@@ -10,8 +10,12 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        
+        //Test de herencia
+        Profesor profesor1 = new Profesor ("Emanuel", "Luna García", 23);
+        profesor1.setIdProfesor("2771123");
+        profesor1.mostrarNombreApellidosYCarnet();
+    
     }
 
-    
+        
 }

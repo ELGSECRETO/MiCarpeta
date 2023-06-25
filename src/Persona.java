@@ -1,4 +1,4 @@
-package MiCarpeta.Herencias;
+
 
 //Código de la clase Persona ejemplo aprenderaprogramar.com
 public class Persona { 
