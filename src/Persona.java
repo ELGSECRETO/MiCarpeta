@@ -1,4 +1,4 @@
-package MiCarpeta.Herencias;
+
 
 //Código de la clase Persona ejemplo aprenderaprogramar.com
 public class Persona { 
@@ -6,7 +6,6 @@ public class Persona {
     private String apellidos;
     private int edad;
 
-    //Constructor
     public Persona (String nombre, String apellidos, int edad) {
 
         this.nombre = nombre;
