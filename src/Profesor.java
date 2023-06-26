@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 //Código de la clase profesor, subclase de la clase Persona ejemplo aprenderaprogramar.com
 public class Profesor extends Persona {
     private String IdProfesor;
