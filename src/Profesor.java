@@ -1,8 +1,7 @@
-
+import java.util.Scanner;
 
 //Código de la clase profesor, subclase de la clase Persona ejemplo aprenderaprogramar.com
 public class Profesor extends Persona {
-    //Campos específicos de la subclase.
     private String IdProfesor;
 
     //Constructor de la subclase: incluimos como parámetros al menos los del constructor de la superclase
